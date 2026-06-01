@@ -1,7 +1,6 @@
 package com.anime
 
 import com.cosmix.app.plugins.CsxPlugin
-import app.cosmix.plugins.CosmixPlugin
 import com.cosmix.app.plugins.CsxPluginAnnotation
 import com.cosmix.app.extractors.FileMoon
 import com.cosmix.app.extractors.FilemoonV2
@@ -9,7 +8,6 @@ import com.cosmix.app.extractors.Krakenfiles
 import com.cosmix.app.extractors.StreamTape
 import com.cosmix.app.extractors.Voe
 
-@CosmixPlugin
 @CsxPluginAnnotation
 class AnimeDekhoPlugin: CsxPlugin() {
     override fun load() {
