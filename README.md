@@ -48,6 +48,14 @@ A **Cosmix** extension for streaming anime, cartoons, and movies from **AnimeDek
 
 ---
 
+## <img src="assets/icons/structure.svg" width="24" height="24"/> Create Your Own Extension
+
+Want to build your own extension just like Anime-Dekho? It's incredibly easy!
+1. Start with the [Cosmix Extension Template](https://github.com/cosmix-app/cosmix-extension-template)
+2. Read the full [Extension Creation Guide](https://github.com/cosmix-app/cosmix-extension-template/blob/main/EXTENSION-CREATE-GUIDE.md)
+
+---
+
 ## <img src="assets/icons/wrench.svg" width="24" height="24"/> Built With
 
 - [Cosmix](https://github.com/cosmix-app/cosmix) - Android streaming platform
