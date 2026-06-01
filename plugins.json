@@ -1,0 +1,27 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/cosmix-extensions/Anime-Dekho/builds/AnimeDekhoProvider.csx",
+        "status": 1,
+        "version": 1,
+        "name": "AnimeDekhoProvider",
+        "internalName": "AnimeDekhoProvider",
+        "authors": [
+            "Hindi Provider"
+        ],
+        "description": "Includes AnimeDekho,OnePace(DUB,SUB) and HindiSubAnime",
+        "fileSize": 136793,
+        "repositoryUrl": "https://github.com/cosmix-extensions/Anime-Dekho",
+        "language": "hi",
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "iconUrl": "https://animedekho.app/wp-content/uploads/2023/07/AnimeDekho-Logo-300x-1.png",
+        "apiVersion": 1,
+        "fileHash": "sha256-83847e106890ba925d40e512a878e9d62589e75c82010b4c03e41a06d028ae4a",
+        "jarFileSize": 269602,
+        "jarUrl": "https://raw.githubusercontent.com/cosmix-extensions/Anime-Dekho/builds/AnimeDekhoProvider.jar",
+        "jarHash": "sha256-b8d4b7ae16e5e0a34787ae3dcbbb4cc3723a2bd5e66aa2bae7c6be0316b868f6"
+    }
+]

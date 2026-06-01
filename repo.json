@@ -1,0 +1,8 @@
+{
+  "name": "AnimeDekho Provider",
+  "description": "AnimeDekho - Hindi Anime, Cartoon and Movies Streaming Extension",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/cosmix-extensions/Anime-Dekho/builds/plugins.json"
+  ]
+}
