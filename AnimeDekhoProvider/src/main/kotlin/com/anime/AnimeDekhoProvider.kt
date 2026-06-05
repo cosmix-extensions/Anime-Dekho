@@ -53,7 +53,7 @@ open class AnimeDekhoProvider : CsxApi() {
         }
 
         // Series & Movies: AJAX "Load more"
-        val pageUrl = if (isSeries) "$mainUrl/serie/" else "$mainUrl/movies/"
+        val pageUrl = if (isSeries) "$mainUrl/series-hindi/" else "$mainUrl/movie-hindi/"
 
         // Page 1: normal HTML scraping
         if (page == 1) {
